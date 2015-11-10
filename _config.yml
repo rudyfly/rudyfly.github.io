@@ -1,9 +1,9 @@
 # Site settings
-title: Clean
+title: Rudy的博客
 email: rudyfly@163.com
 description: > # this means to ignore newlines until "baseurl:"
-    我的第一篇博客，纪念一下。
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+    云计算的世界
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://rudyfly.github.io" # the base hostname & protocol for your site
 twitter_username: rudyfly
 github_username:  rudyfly@163.com
