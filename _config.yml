@@ -68,4 +68,7 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
+    type: git
+    repo: git@github.com:rudyfly/rudyfly.github.io.git
+    branch: [master]
+    message: [init my blog]
